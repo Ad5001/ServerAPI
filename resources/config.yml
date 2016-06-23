@@ -1,0 +1,7 @@
+# Welcome to ServerAPI config !
+
+# It's used to define an username and a password to access modifying and "important" files.
+
+username: admin
+
+password: password
